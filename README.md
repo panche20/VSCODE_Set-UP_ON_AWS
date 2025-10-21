@@ -3,7 +3,7 @@
 Connect to VS Code using below code snippet:
 
 '''
-Host myweb-app
+Host myweb-app\
   HostName ec2-16-171-194-81.eu-north-1.compute.amazonaws.com\
   IdentityFile \Users\panch\.ssh\demo-aws-key.pem\
   User ubuntu\
